@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "chess (slowed)",
+  "base_artist": "Joyful",
+  "createdAt": "2026-03-18T10:40:19.628842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chess",
+      "artist": "Petite Noir",
+      "has_synced": true,
+      "path": "select/01_Chess_Petite_Noir.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chess",
+      "artist": "Rivers Cuomo",
+      "has_synced": false,
+      "path": "select/02_Chess_Rivers_Cuomo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chess",
+      "artist": "Alphabeat",
+      "has_synced": true,
+      "path": "select/03_Chess_Alphabeat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Know Him So Well - from \"Chess\"",
+      "artist": "Whitney Houston feat. Cissy Houston",
+      "has_synced": true,
+      "path": "select/04_I_Know_Him_So_Well_-_from__Chess_Whitney_Houston_feat._Cissy_Houston.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Know Him So Well (from \"Chess\")",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/05_I_Know_Him_So_Well_(from__Chess_)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Know Him So Well (from \"Chess\")",
+      "artist": "Whitney Houston, Cissy Houston",
+      "has_synced": true,
+      "path": "select/06_I_Know_Him_So_Well_(from__Chess_)_Whitney_Houston,_Cissy_Houston.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "End of the World/ A Game of Chess (feat. Connie Sgarbossa & SeeYouSpaceCowboy...)",
+      "artist": "Senses Fail feat. Connie Sgarbossa & SeeYouSpaceCowboy...",
+      "has_synced": true,
+      "path": "select/07_End_of_the_World__A_Game_of_Chess_(feat._Connie_Sgarbossa_&_SeeYouSpaceCowboy..._Senses_Fail_feat._Connie_Sgarbossa_&_SeeYouSpaceCowboy....lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reelin' & Rockin' (64-11-11 Chess Studios Chicago)",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/08_Reelin'_&_Rockin'_(64-11-11_Chess_Studios_Chicago)_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Know Him So Well - from \"Chess\"",
+      "artist": "Whitney Houston, Cissy Houston",
+      "has_synced": true,
+      "path": "select/09_I_Know_Him_So_Well_-_from__Chess_Whitney_Houston,_Cissy_Houston.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anthem - From \"Chess\"",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/10_Anthem_-_From__Chess_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anthem (From Chess)",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/11_Anthem_(From_Chess)_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chess Piece Face",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/12_Chess_Piece_Face_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Night In Bangkok (Radio Edit / From “Chess” / Remastered 2016)",
+      "artist": "Murray Head",
+      "has_synced": true,
+      "path": "select/13_One_Night_In_Bangkok_(Radio_Edit___From_“Chess”___Remastered_2016)_Murray_Head.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Night In Bangkok (Radio Edit _ From “Chess” _ Remastered 2016)",
+      "artist": "Murray Head",
+      "has_synced": true,
+      "path": "select/14_One_Night_In_Bangkok_(Radio_Edit___From_“Chess”___Remastered_2016)_Murray_Head.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Are (Dario Synth vs. Matt3w & Sideone) [feat. Chess] [Radio Mix]",
+      "artist": "Dario Synth, Sideone & Matt3w",
+      "has_synced": true,
+      "path": "select/15_We_Are_(Dario_Synth_vs._Matt3w_&_Sideone)_[feat._Chess]_[Radio_Mix]_Dario_Synth,_Sideone_&_Matt3w.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chess: I Know Him So Well",
+      "artist": "Elaine Paige feat. Barbara Dickson",
+      "has_synced": false,
+      "path": "select/16_Chess__I_Know_Him_So_Well_Elaine_Paige_feat._Barbara_Dickson.txt"
+    }
+  ]
+}
